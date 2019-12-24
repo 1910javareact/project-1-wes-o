@@ -1,6 +1,6 @@
 # user-expense-reimbursement-ui
 
-![Dashboard View](../images-for-readme/dashboard-no-data_React-App.png)
+![Dashboard View](https://github.com/wes-o/project-1-wes-o/blob/images-for-readme/dashboard-no-data_React-App.png?raw=true)
 
 
 ---
